@@ -1,0 +1,12 @@
+.wrapper {
+    width: 460px;
+    margin: auto;
+    background-color: white;
+    border: solid #0b0039 4px;
+    padding: 20px;
+}
+
+.header {
+    margin: auto;
+
+}
